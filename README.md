@@ -1,4 +1,5 @@
 # Restaurant - Exploratory Data Analysis
+![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/955223f3-3c28-4027-aa0b-74ae3e93b6f1)
 During my Data Science internship undertaken at Cognifyz technologies in Jan-Feb 2024, I was given 3 levels of tasks to perform analysis of restaurants and factors affectig its ratings. The main objective was to to gather meaningful insights by conducting exploratory data analysis on the large restaurant dataset, as well as build a ML model to predict ratings.This github repo contains all the files I worked on including the necessary data exploration, preprocessing and various visualization methods to dive deep into finding interesting insights. More details are listed below:
 
 ### Tasks
@@ -41,7 +42,7 @@ restaurants.
 * “Sunda” is the highest rated cuisine and also has the most votes. 
 
 ## Some visualizations for reference
-  ![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/955223f3-3c28-4027-aa0b-74ae3e93b6f1)
+
 ![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/996ef9a6-327b-4c53-a560-19016ec9fe0f)
 ![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/df299531-addb-4a07-b54b-2b896dc9136a)
 ![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/e4f1574a-dfbb-4959-9694-56b8e63215b9)
