@@ -1,12 +1,12 @@
 # Restaurant - Exploratory Data Analysis
 ![image](https://github.com/galax19ksh/Restaurant-Analysis-and-Predictive-Model/assets/112553872/955223f3-3c28-4027-aa0b-74ae3e93b6f1)
-During my Data Science internship undertaken at Cognifyz technologies in Jan-Feb 2024, I was given 3 levels of tasks to perform analysis of restaurants and factors affectig its ratings. The main objective was to to gather meaningful insights by conducting exploratory data analysis on the large restaurant dataset, as well as build a ML model to predict ratings.This github repo contains all the files I worked on including the necessary data exploration, preprocessing and various visualization methods to dive deep into finding interesting insights. More details are listed below:
+During my Data Science internship undertaken at Cognifyz technologies in Jan-Feb 2024, I was given 3 levels of tasks to perform analysis of restaurants and factors affectig their ratings. The main objective was to to gather meaningful insights by conducting exploratory data analysis on the large restaurant dataset, as well as build a ML model to predict ratings.This github repo contains all the files I worked on including the necessary data exploration, preprocessing and various visualization methods to dive deep into finding interesting insights. More details are listed below:
 
 ### Tasks
 All tasks in details can be found [here](https://drive.google.com/file/d/1vTXJU5eMKMFsmg5R8taLV1k2n9rNWNBj/view?usp=sharing).
 
 ### Dataset
-It can be downloaded from [here](https://drive.google.com/file/d/16rijnmAWo4IqsobwtaVXQIQYFZhw1Pvv/view?usp=sharing).
+It can be downloaded [here](https://drive.google.com/file/d/16rijnmAWo4IqsobwtaVXQIQYFZhw1Pvv/view?usp=sharing).
 
 ### Platform used
 Google Colab
